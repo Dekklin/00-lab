@@ -22,10 +22,10 @@ Follow these instructions carefully and in order.
 
 ##### Investigate how `let` and `const` are now used in the code. Where did you need to convert `const` into `let` to make the code work? Can you identify any patterns/similarities?
 
-In for loops you are reassigning your interating variable, more commonly i. i++ is reassigning it +1 of its previous number. Const are for variables that don't change, sometimes edited but not reassigned.
+in For loops you are constantly assigning your variable i, const are for variables that don't change, only added or edited, (like object properties), in when you do i++ you're reassigning i to = +1 of what it was originally. 
 
 ---
 
 ##### How did it go with making the adaptation from concatenations to template literal notation? Do you think you'll mostly use template literal notation from now on?
 
-(Put your answer here)
+Oh yea. Much easier. Less taking my fingers off their "correct alignment". Which speeds up the process
