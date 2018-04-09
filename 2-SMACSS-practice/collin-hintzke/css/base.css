@@ -1,8 +1,10 @@
 * {
-  color: gold;
-  font-family: 'Helvetica';
-  /*outline: 1px dashed white;*/
+  font-family: times;
 }
+
 body {
-  background-color: #242;
+  background: #fff;
+}
+input {
+  font-family: 'Patrick Hand', cursive;
 }
