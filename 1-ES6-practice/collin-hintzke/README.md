@@ -22,7 +22,7 @@ Follow these instructions carefully and in order.
 
 ##### Investigate how `let` and `const` are now used in the code. Where did you need to convert `const` into `let` to make the code work? Can you identify any patterns/similarities?
 
-(Put your answer here)
+In for loops you are reassigning your interating variable, more commonly i. i++ is reassigning it +1 of its previous number. Const are for variables that don't change, sometimes edited but not reassigned.
 
 ---
 
