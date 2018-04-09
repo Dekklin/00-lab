@@ -1,3 +1,7 @@
+input {
+  font-family: 'Patrick Hand', cursive;
+}
+
 nav, article, aside, footer section {
   margin: 0 auto;
   width: 900px;
