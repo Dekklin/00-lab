@@ -28,4 +28,4 @@ In for loops you are reassigning your interating variable, more commonly i. i++ 
 
 ##### How did it go with making the adaptation from concatenations to template literal notation? Do you think you'll mostly use template literal notation from now on?
 
-(Put your answer here)
+Definately, template literal's are much easier for my mind to digest and it's quicker and easier to type, no more lifting my fingers off their correct position to get +. It also takes up less space!
